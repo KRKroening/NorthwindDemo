@@ -1,0 +1,12 @@
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\Northwind.Console.exe.config
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\Northwind.Console.exe
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\Northwind.Console.pdb
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\EntityFramework.dll
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\Northwind.Data.dll
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\Northwind.Data.pdb
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\EntityFramework.xml
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\obj\Debug\Northwind.Console.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\obj\Debug\Northwind.Console.exe
+C:\Users\kimbe\Documents\GitHub\NorthwindDemo\Northwind.Console\obj\Debug\Northwind.Console.pdb
